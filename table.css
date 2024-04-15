@@ -1,0 +1,72 @@
+*{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.text{
+    margin: 8px 0px;
+}
+p{
+    margin: 0px;
+    font-size: 12px;
+}
+
+.lowerrow{
+    border: 0px;
+    height: 20px ;
+}
+.tablebox{
+    height: 67px;
+    width: 86px;
+}
+.green{
+    background-color: #99E599;
+    text-align: center;
+}
+.pink{
+    background-color: #FFCCE5;
+    text-align: center;
+}
+.yellow{
+    background-color: #FFE57F;
+    text-align: center;
+}
+.lightbrown{
+    background-color: #FFCCB2;
+    text-align: center;
+}
+
+.grey{
+    background-color: #cccccc ;
+    text-align: center;
+}
+.green{
+background-color: #99E5B2;
+text-align: center;
+
+}
+.brown{
+    background-color: #EA8350;
+    text-align: center;
+}
+    
+.purple{
+    background-color: #9E87BD;
+    text-align: center;
+}    
+.blue{
+    background-color: #B2E5FF;
+    text-align: center;
+}
+.blue{
+    border-color: #b2ccff;
+    text-align: center;
+}
+.lightblue{
+    background-color: #b2ccff;
+    text-align: center;
+}
+.lightgreen{
+    background-color: #7fe5e5;
+    text-align: center;
+}
